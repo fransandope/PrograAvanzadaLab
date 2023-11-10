@@ -1,0 +1,3 @@
+C:\Prog\Lab2_Francisco_Sandoval_1100723\Lab2_Francisco_Sandoval_1100723\x64\Debug\Lab2_Francisco_Sandoval_1100723.vcxproj.AssemblyReference.cache
+C:\Prog\Lab2_Francisco_Sandoval_1100723\Lab2_Francisco_Sandoval_1100723\x64\Debug\Lab2FranciscoSandoval1100723.MyForm.resources
+C:\Prog\Lab2_Francisco_Sandoval_1100723\Lab2_Francisco_Sandoval_1100723\x64\Debug\Lab2_Francisco_Sandoval_1100723.vcxproj.GenerateResource.cache

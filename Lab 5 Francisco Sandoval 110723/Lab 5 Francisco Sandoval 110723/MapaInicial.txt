@@ -1,0 +1,90 @@
+0058, Growlith , 1
+0001, Bulbasaur , 1
+0004, Charmander , 1
+0006, Charmeleon , 1
+0035, Clefeiry , 1
+0036, Clefable , 1
+0060, Poliwag , 1
+0061, Poliwhirl , 1
+0062, Poliwrath , 1
+0129, Magikarp , 1
+0152, Chikorita, 2
+0169, Crobat, 2
+0172, Pichu, 2
+0173, Cleffa, 2
+0177, Natu, 2
+0178, Xatu, 2
+0179, Mareep, 2
+0183, Maril, 2
+0186, Politoed, 2
+0187, Hoppip, 2
+0263, Zigzagoon, 3
+0264, Linoone, 3
+0265, Wurmple, 3
+0266, Silcoon, 3
+0268, Cascoon, 3
+0273, Seedot, 3
+0275, Shiftry, 3
+0276, 	Taillow, 3
+0280, Ralts, 3
+0289, Slaking, 3
+0396, Starly, 4
+0397, Staravia, 4
+0398, Staraptor, 4
+0415, Combee, 4
+0417, Pachirisu, 4
+0419, 	Floatzel, 4
+0420, Cherubi, 4
+0423, 	Gastrodon, 4
+0434, Stunky, 4
+0436, Bronzor, 4
+0494, 	Victini, 5
+0506, 	Lillipup, 5
+0507, Herdier, 5
+0513, 	Pansear, 5
+0519, 	Pidove, 5
+0521, 	Unfezant, 5
+0522, Blitzle, 5
+0526, 	Boldore, 5
+0527, Woobat, 5
+0530, Excadrill, 5
+0667, 	Litleo, 6
+0668, Pyroar, 6
+0677, Espurr, 6
+0678, Meowstic, 6
+0679, 	Honedge, 6
+0684, 	Swirlix, 6
+0685, 	Slurpuff, 6
+0687, Malamar, 6
+0690, 	Skrelp, 6
+0692, 	Clauncher, 6
+0722, Rowlet, 7
+0728, Popplio, 7
+0748, Toxapex, 7
+0749, Mudbray, 7
+0751, Dewpider, 7
+0753, Fomantis, 7
+0754, Lurantis, 7
+0755, 	Morelull, 7
+0756, 	Shiinotic, 7
+0757, Salandit, 7
+0816, 	Sobble, 8
+0817, Drizzile, 8
+0824, 	Blipbug, 8
+0825, 	Dottler, 8
+0827, Nickit, 8
+0830, Eldegoss, 8
+0831, 	Wooloo, 8
+0833, 	Chewtle, 8
+0840, 	Applin, 8
+0841, 	Flapple, 8
+0915, Lechonk, 9
+0920, Lokix, 9
+0921, 	Pawmi, 9
+0924, Tandemaus, 9
+0926, 	Fidough, 9
+0927, 	Dachsbun, 9
+0928, 	Smoliv, 9
+0929, Dolliv, 9
+0930, Arboliva, 9
+0931, Squawkabilly, 9

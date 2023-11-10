@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Pokemon.h(23,28): warning C4677: 'GetFirstNode': signature of non-private member contains assembly private type 'Node<T>'
+  Pokemon.cpp
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\pokemon.h(23,28): warning C4677: 'GetFirstNode': signature of non-private member contains assembly private type 'Node<T>'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(6,1): error C2011: 'Unidad': 'class' type redefinition
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(15,2): error C2059: syntax error: ';'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Comparador.h(5,83): error C2955: 'Unidad': use of class generic requires generic argument list
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Comparador.h(8,25): error C2955: 'Unidad': use of class generic requires generic argument list
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Comparador.h(8,39): error C2955: 'Unidad': use of class generic requires generic argument list
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Comparador.h(10,16): error C2027: use of undefined type 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Comparador.h(10,43): error C2027: use of undefined type 'Unidad'
+C:\Prog\Lab 5 Francisco Sandoval 110723\Lab 5 Francisco Sandoval 110723\Unidad.h(5,11): message : see declaration of 'Unidad'
+  Unidad.cpp
+  Generating Code...

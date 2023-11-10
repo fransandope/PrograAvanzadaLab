@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Circulo.cpp
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.h(10,1): error C2143: syntax error: missing ';' before '}'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.cpp(4,14): error C2039: 'CalcularArea': is not a member of 'Circulo'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.h(3,11): message : see declaration of 'Circulo'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.cpp(7,1): error C2059: syntax error: '}'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.cpp(8,15): error C2039: 'setRadio': is not a member of 'Circulo'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.h(3,11): message : see declaration of 'Circulo'
+C:\Prog\Lab1FranciscoSandoval1100723\Lab1FranciscoSandoval1100723\Circulo.cpp(9,1): error C2447: '{': missing function header (old-style formal list?)
+  FiguraGeometrica.cpp
+  Lab1FranciscoSandoval1100723.cpp
+  Generating Code...
